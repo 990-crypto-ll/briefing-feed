@@ -1,0 +1,143 @@
+{
+ "date": "2026-10-29",
+ "fetchedAt": "2026-10-29T00:02:11.000Z",
+ "quotes": [
+  {
+   "symbol": "QQQ",
+   "name": "纳指100 ETF (QQQ)",
+   "price": 725.61,
+   "changePercent": 0.6045,
+   "currency": "USD"
+  },
+  {
+   "symbol": "NVDA",
+   "name": "英伟达",
+   "price": 215.38,
+   "changePercent": -1.1746,
+   "currency": "USD"
+  },
+  {
+   "symbol": "MSFT",
+   "name": "微软",
+   "price": 531.01,
+   "changePercent": -0.0602,
+   "currency": "USD"
+  },
+  {
+   "symbol": "AAPL",
+   "name": "苹果",
+   "price": 343.83,
+   "changePercent": -0.9421,
+   "currency": "USD"
+  },
+  {
+   "symbol": "TSLA",
+   "name": "特斯拉",
+   "price": 404.22,
+   "changePercent": -0.7952,
+   "currency": "USD"
+  },
+  {
+   "symbol": "GOOGL",
+   "name": "谷歌",
+   "price": 324.89,
+   "changePercent": 1.3444,
+   "currency": "USD"
+  },
+  {
+   "symbol": "META",
+   "name": "Meta",
+   "price": 612.49,
+   "changePercent": -1.2416,
+   "currency": "USD"
+  },
+  {
+   "symbol": "AMZN",
+   "name": "亚马逊",
+   "price": 254.6,
+   "changePercent": 0.5927,
+   "currency": "USD"
+  },
+  {
+   "symbol": "AMD",
+   "name": "AMD",
+   "price": 569.27,
+   "changePercent": 1.6082,
+   "currency": "USD"
+  }
+ ],
+ "items": [
+  {
+   "section": "finance",
+   "title": "Fed Holds Rates at 3.75%-4% in 10-2 Vote; Warsh Signals Fewer Rate Decisions Ahead",
+   "titleZh": "美联储以 10 票对 2 票维持利率在 3.75%-4% 不变，沃什暗示未来利率决议将减少",
+   "detail": "On October 28, 2026, the Federal Reserve left its benchmark rate unchanged at 3.75%-4%, following a quarter-point hike in September. Governor Lisa Cook and Cleveland Fed President Beth Hammack dissented, preferring another quarter-point hike. Chair Kevin Warsh said politics played no role in the decision, that inflation remains the priority, and that one 2027 FOMC meeting will be devoted to broader strategy instead of a rate decision, with two such meetings planned for 2028. Traders raised bets on a December hike to nearly 80%. Why it matters: the pause was widely expected, but the dissents and the thinner 2027-2028 decision calendar concentrate market attention on the remaining meetings and on Thursday's PCE and GDP data.",
+   "detailZh": "2026 年 10 月 28 日，美联储将基准利率维持在 3.75%-4% 不变，此前 9 月曾加息 25 个基点。理事丽莎·库克和克利夫兰联储主席贝丝·哈马克投了反对票，主张再加息 25 个基点。主席凯文·沃什表示政治对决议没有影响，抗通胀仍是优先事项，并称 2027 年将有一次 FOMC 会议专门讨论更广泛的战略而不做利率决定，2028 年计划有两次此类会议。交易员对 12 月加息的押注升至近 80%。值得看的原因：按兵不动符合普遍预期，但两张鹰派反对票和 2027-2028 年更少的决议日程，会让市场更聚焦剩余会议以及周四公布的 PCE 和 GDP 数据。",
+   "sourceName": "usatoday.com",
+   "sourceUrl": "https://www.usatoday.com/story/money/economy/2026/10/28/federal-reserve-october-interest-rate-decision--live/92441632007/"
+  },
+  {
+   "section": "finance",
+   "title": "U.S. Stocks Edge Higher for a Third Straight Day as Fed Holds Rates",
+   "titleZh": "美联储按兵不动，美股连续第三个交易日小幅收高",
+   "detail": "On October 28, 2026, the S&P 500 rose 0.28% to 7,743.98, the Nasdaq Composite gained 0.27% to 26,549.85, and the Dow Jones Industrial Average added 0.19% to 52,475.10. It was the third straight winning day for all three indexes. Energy led sector gains while real estate and utilities retreated; Vertiv jumped almost 17% on AI infrastructure demand and Oracle rose about 11% after an investor day. Why it matters: the market held its gains through the Fed decision, but the real test came after the close with Microsoft and Alphabet earnings.",
+   "detailZh": "2026 年 10 月 28 日，标普 500 指数涨 0.28% 至 7,743.98 点，纳斯达克综合指数涨 0.27% 至 26,549.85 点，道琼斯工业平均指数涨 0.19% 至 52,475.10 点，三大指数连续第三个交易日收高。能源板块领涨，房地产和公用事业回落；Vertiv 因 AI 基建需求预期大涨近 17%，甲骨文在投资者日后上涨约 11%。值得看的原因：市场在美联储决议后守住了涨幅，但真正的考验在收盘后到来——微软和 Alphabet 的财报。",
+   "sourceName": "fool.com",
+   "sourceUrl": "https://www.fool.com/coverage/stock-market-today/2026/10/28/stock-market-today-oct-28-markets-edge-higher-as-fed-holds-rates-steady/"
+  },
+  {
+   "section": "finance",
+   "title": "Microsoft Beats on 48% Azure Growth; Alphabet Misses as Cloud Soars but Cash Flow Turns Negative",
+   "titleZh": "微软靠 Azure 增长 48% 超预期，Alphabet 云业务大涨但现金流转负、业绩不及预期",
+   "detail": "Microsoft reported revenue of $92.3 billion for the quarter ended September 30, 2026, up 19% year over year, with Azure revenue up 48% to $33.2 billion and total Microsoft Cloud revenue up 30% to $63.9 billion. Alphabet reported third-quarter revenue of $127.6 billion, up 25%, but below estimates; Google Cloud doubled to $30.7 billion, while free cash flow was negative $9.1 billion after $51.4 billion of capital spending. Microsoft shares rose in after-hours trading while Alphabet fell about 10%. Why it matters: both results test whether AI infrastructure spending is paying off — Microsoft's cloud beat, Alphabet's cash burn shows the two sides of the same AI bet.",
+   "detailZh": "微软截至 2026 年 9 月 30 日的季度营收为 923 亿美元，同比增长 19%，其中 Azure 营收增长 48% 至 332 亿美元，微软云总营收增长 30% 至 639 亿美元。Alphabet 第三季度营收为 1,276 亿美元，同比增长 25%，但低于预期；谷歌云营收翻倍至 307 亿美元，而在 514 亿美元资本开支后自由现金流为负 91 亿美元。盘后交易中微软股价上涨，Alphabet 跌约 10%。值得看的原因：两份财报都在检验 AI 基建投入是否见效——微软的云业务超预期，Alphabet 的现金消耗则展示了同一场 AI 押注的另一面。",
+   "sourceName": "reuters.com",
+   "sourceUrl": "https://www.reuters.com/commentary/breakingviews/google-microsoft-weave-tangled-ai-webs-2026-10-28/"
+  },
+  {
+   "section": "finance",
+   "title": "SK Hynix Posts Record Q3 Profit and a $75 Billion Shareholder Return Plan; KOSPI Tops 6,000",
+   "titleZh": "SK 海力士第三季度利润创纪录并推出约 750 亿美元股东回报计划，韩国综合指数突破 6000 点",
+   "detail": "On October 28, 2026, SK Hynix reported third-quarter revenue of 104.62 trillion won, the first quarter above 100 trillion won, and record operating profit of 83.33 trillion won, up 632% year over year, driven by AI memory demand and higher prices. It pledged about 100 trillion won (about $75 billion) in 2026 shareholder returns, including at least 30 trillion won in dividends and at least 60 trillion won in buybacks and cancellations. SK Hynix shares rose 10.9% and the KOSPI jumped 6.6% to 6,012.4, above 6,000 for the first time in 10 sessions. Why it matters: it is the clearest sign yet that AI memory demand is still outrunning supply — and that the cash is being returned, not just reinvested.",
+   "detailZh": "2026 年 10 月 28 日，SK 海力士公布第三季度营收 104.62 万亿韩元，首次单季突破 100 万亿韩元，营业利润创纪录地达到 83.33 万亿韩元，同比增长 632%，受 AI 存储需求和价格上涨推动。它承诺 2026 年股东回报约 100 万亿韩元（约 750 亿美元），包括至少 30 万亿韩元分红和至少 60 万亿韩元回购及注销。SK 海力士股价涨 10.9%，韩国综合指数大涨 6.6% 至 6,012.4 点，10 个交易日来首次突破 6000 点。值得看的原因：这是迄今最清晰的信号，表明 AI 存储需求仍超过供给——而且现金正在回馈股东，而不只是再投入。",
+   "sourceName": "ajupress.com",
+   "sourceUrl": "https://www.ajupress.com/view/20261028153342778"
+  },
+  {
+   "section": "ai",
+   "title": "Google DeepMind Unveils Genie 4: Interactive Worlds with Native Audio You Can Steer Live",
+   "titleZh": "谷歌 DeepMind 发布 Genie 4：可实时操控、带原生音频的交互式世界模型",
+   "detail": "Announced October 27, 2026, Genie 4 is Google DeepMind's new real-time world model that generates explorable, photorealistic worlds from a text prompt or image — now with natively generated music, ambient sound and interactive dialogue, so characters can talk back in real time. You can steer a running simulation with plain-language prompts, such as changing the weather or adding a person, and scenes hold together for about two minutes, double Genie 3. It is in research preview for trusted testers, rolling out first to Google AI Ultra subscribers in Project Genie and early-access Gemini API / Google AI Studio partners, with a waitlist open. What you can use it for: prototyping interactive scenes, games and robot-training environments without building a 3D world by hand — while noting DeepMind's own limits on drift in long sessions.",
+   "detailZh": "2026 年 10 月 27 日发布的 Genie 4 是谷歌 DeepMind 的新一代实时世界模型，可根据文字提示或图片生成可探索的逼真世界——如今能原生生成音乐、环境音和交互对话，场景中的人物可以实时回应。你可以用自然语言提示实时操控正在运行的模拟，例如改变天气或加入人物，场景连贯时长约两分钟，是 Genie 3 的两倍。目前为受信任测试者的研究预览版，将先向 Project Genie 中的 Google AI Ultra 订阅用户和 Gemini API / Google AI Studio 的早期合作伙伴开放，另有候补名单。可以用来做什么：无需手工搭建 3D 世界，即可快速原型化交互场景、游戏和机器人训练环境——同时注意 DeepMind 自己提到的长时运行画面漂移等限制。",
+   "sourceName": "deepmind.google",
+   "sourceUrl": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/"
+  },
+  {
+   "section": "ai",
+   "title": "Oracle and OpenAI Bring ChatGPT into Enterprise Workflows with Oracle AI Workspace",
+   "titleZh": "甲骨文与 OpenAI 合作把 ChatGPT 带入企业工作流，推出 Oracle AI Workspace",
+   "detail": "Announced October 27, 2026 at Oracle AI World, Oracle and OpenAI expanded their partnership with four offerings: Oracle AI Workspace, Oracle AI Security Mesh, Oracle App Composer and an Oracle AI SMB Bundle. AI Workspace aims to let employees describe what they need in ChatGPT and find information and complete approved workflows across Oracle Fusion Applications, NetSuite, Oracle AI Database and Oracle Cloud Infrastructure, under existing permissions and approvals. What you can use it for: if your company runs on Oracle, this is the path to doing multi-system finance, procurement and planning tasks in one conversation instead of jumping between apps — though Workspace itself is still under development, so treat it as a roadmap, not a switch you can flip today.",
+   "detailZh": "2026 年 10 月 27 日在 Oracle AI World 上宣布，甲骨文与 OpenAI 扩大合作，推出四项产品：Oracle AI Workspace、Oracle AI Security Mesh、Oracle App Composer 和 Oracle AI SMB Bundle。AI Workspace 的目标是让员工在 ChatGPT 里描述需求，就能在现有权限和审批规则下，跨 Oracle Fusion Applications、NetSuite、Oracle AI Database 和 Oracle Cloud Infrastructure 查找信息并完成已批准的工作流。可以用来做什么：如果你的公司使用甲骨文系统，这意味着未来可在一次对话里完成跨多个系统的财务、采购和规划任务，而不必在应用间来回切换——但 Workspace 本身仍在开发中，应视为路线图，而非今天就能开启的功能。",
+   "sourceName": "morningstar.com",
+   "sourceUrl": "https://www.morningstar.com/news/pr-newswire/20261027sf81801/oracle-reinvents-enterprise-computing-for-the-ai-era-with-openai"
+  },
+  {
+   "section": "ai",
+   "title": "Jedify Launches Data Agents: Autonomous Analysts You Build in Plain Language",
+   "titleZh": "Jedify 推出 Data Agents：用自然语言搭建的自主数据分析师",
+   "detail": "Launched October 28, 2026, Jedify Data Agents help teams build autonomous analysts in plain language, with no code or workflow builder. Agents can monitor business metrics, investigate changes, run recurring analyses on demand, on a schedule or when a condition is met, and dig into root causes using Jedify's context graph of an organization's metrics, relationships and business rules. What you can use it for: replace a dashboard you have to check and a manual data pull with an agent that watches a KPI, explains why it moved, and repeats the analysis — useful for finance, operations and product teams that live in metrics but lack analyst time.",
+   "detailZh": "2026 年 10 月 28 日推出的 Jedify Data Agents，帮助团队用自然语言搭建自主数据分析师，无需写代码或搭建工作流。智能体可以监控业务指标、调查变化，按需、按计划或在条件触发时运行定期分析，并借助 Jedify 的上下文图谱（涵盖组织的指标、关系和业务规则）深挖根本原因。可以用来做什么：用一个盯着 KPI、解释其变动原因并重复分析的智能体，替代需要人工查看的仪表盘和手动拉数——适合整天和指标打交道但分析师时间不足的财务、运营和产品团队。",
+   "sourceName": "globenewswire.com",
+   "sourceUrl": "https://www.globenewswire.com/news-release/2026/10/28/3390231/0/en/jedify-launches-data-agents-autonomous-analysts-built-on-its-context-graph.html"
+  },
+  {
+   "section": "ai",
+   "title": "Otto Group and Sereact Bring NVIDIA-Powered Physical AI to Returns Sorting",
+   "titleZh": "Otto 集团与 Sereact 把英伟达驱动的实体 AI 用于退货分拣",
+   "detail": "Announced October 28, 2026, Otto Group and Sereact will deploy ten AI-controlled dual-arm systems at Otto's logistics center in Poland to inspect and sort returned orders, with 15 more planned in a second phase. Sereact's Cortex physical-AI model generalizes to items it has never seen, deciding in real time how to grasp each item, assess its condition and route it. It is trained with NVIDIA Isaac Sim, Isaac Lab and Cosmos, so lessons from the returns line can reach robots in days, not weeks. What you can use it for: a concrete example of physical AI beyond the lab — if you run e-commerce or logistics, returns is one of the hardest manual tasks to automate, and this shows how simulation-trained robots handle folded, crumpled, repackaged items.",
+   "detailZh": "2026 年 10 月 28 日宣布，Otto 集团与 Sereact 将在 Otto 位于波兰的物流中心部署 10 套 AI 控制的双臂系统，用于检查和分拣退回的订单，第二阶段计划再增加 15 套。Sereact 的 Cortex 实体 AI 模型能泛化到从未见过的物品，实时决定如何抓取每件物品、评估其状况并分流。它用英伟达 Isaac Sim、Isaac Lab 和 Cosmos 训练，因此退货线的经验可在几天而非几周内更新到机器人上。可以用来做什么：这是实体 AI 走出实验室的具体例子——如果你做电商或物流，退货是最难自动化的手工环节之一，这个案例展示了经仿真训练的机器人如何处理折叠、压皱、重新包装的物品。",
+   "sourceName": "globenewswire.com",
+   "sourceUrl": "https://www.globenewswire.com/news-release/2026/10/28/3389884/0/en/otto-group-and-sereact-bring-nvidia-powered-physical-ai-to-returns-processing.html"
+  }
+ ]
+}
